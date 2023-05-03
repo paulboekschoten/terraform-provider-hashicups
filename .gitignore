@@ -36,3 +36,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 terraform
+
+#exclude .key files
+*.key
